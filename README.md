@@ -22,3 +22,8 @@ I build software for working with geospatial data. I work at [Septima](https://s
 
 - [Utf8JsonStreamReader](https://github.com/bjornharrtell/Utf8JsonStreamReader) — Streaming UTF-8 JSON reader for .NET.
 - [StreamingZipReader](https://github.com/bjornharrtell/StreamingZipReader) — Read ZIP archives as a stream in .NET.
+
+### .NET
+
+- [PgKeyValueDB](https://github.com/bjornharrtell/PgKeyValueDB)
+- [PgEFCoreCopy](https://github.com/bjornharrtell/PgEFCoreCopy)
