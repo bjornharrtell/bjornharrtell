@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Björn Harrtell
 
-<!--
-**bjornharrtell/bjornharrtell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build software for working with geospatial data. I work at [Septima](https://septima.dk/) in Malmö, Sweden.
 
-Here are some ideas to get you started:
+## Featured
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Geospatial
+
+- [JSTS](https://github.com/bjornharrtell/jsts) — JavaScript Topology Suite, a library for planar geometry and topology.
+- [jsts2geojson](https://github.com/bjornharrtell/jsts2geojson) — Convert geometries between JTS and GeoJSON in Java.
+- [topolis](https://github.com/bjornharrtell/topolis) — JavaScript library for planar topology representation and operations.
+- [rgis](https://github.com/bjornharrtell/rgis) — Experimental cross-platform GIS in Rust.
+- [rosm](https://github.com/bjornharrtell/rosm) — Import OpenStreetMap data into PostgreSQL.
+
+### Rust
+
+- [seamark](https://github.com/bjornharrtell/seamark) — Rust project for working with seamarks.
+- [rearcut](https://github.com/bjornharrtell/rearcut) — Earcut-style polygon triangulation in Rust.
+- [envsubst](https://github.com/bjornharrtell/envsubst) — Environment variable substitution for text.
+
+### Other projects
+
+- [Utf8JsonStreamReader](https://github.com/bjornharrtell/Utf8JsonStreamReader) — Streaming UTF-8 JSON reader for .NET.
+- [StreamingZipReader](https://github.com/bjornharrtell/StreamingZipReader) — Read ZIP archives as a stream in .NET.
