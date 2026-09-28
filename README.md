@@ -1,6 +1,6 @@
 ## Hi, I'm Björn Harrtell
 
-I build software for working with geospatial data. I work at [Septima](https://septima.dk/) in Malmö, Sweden.
+I build software for working with geospatial data. I work at [Septima](https://septima.dk/), a Danish company, and live in Sweden.
 
 ## Featured
 
