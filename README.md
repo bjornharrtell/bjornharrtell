@@ -9,14 +9,16 @@ I build software for working with geospatial data. I work at [Septima](https://s
 - [JSTS](https://github.com/bjornharrtell/jsts) — JavaScript Topology Suite, a library for planar geometry and topology.
 - [jsts2geojson](https://github.com/bjornharrtell/jsts2geojson) — Convert geometries between JTS and GeoJSON in Java.
 - [topolis](https://github.com/bjornharrtell/topolis) — JavaScript library for planar topology representation and operations.
+- [FlatGeobuf](https://github.com/flatgeobuf/flatgeobuf) — Performant binary encoding for geographic data, with optional spatial indexing.
 - [rgis](https://github.com/bjornharrtell/rgis) — Experimental cross-platform GIS in Rust.
 - [rosm](https://github.com/bjornharrtell/rosm) — Import OpenStreetMap data into PostgreSQL.
 
 ### Rust
 
-- [seamark](https://github.com/bjornharrtell/seamark) — Rust project for working with seamarks.
+- [seamark](https://github.com/bjornharrtell/seamark) — Rust framework for building JSON:API servers with Axum and SeaORM.
 - [rearcut](https://github.com/bjornharrtell/rearcut) — Earcut-style polygon triangulation in Rust.
 - [envsubst](https://github.com/bjornharrtell/envsubst) — Environment variable substitution for text.
+- [Loom](https://github.com/bearmuckle/loom) — Experimental remote-first coding-agent environment.
 
 ### .NET
 
