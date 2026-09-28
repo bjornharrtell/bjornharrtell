@@ -20,18 +20,18 @@ I build software for working with geospatial data. I work at [Septima](https://s
 
 ### .NET
 
-- [PgKeyValueDB](https://github.com/bjornharrtell/PgKeyValueDB)
-- [PgEFCoreCopy](https://github.com/bjornharrtell/PgEFCoreCopy)
+- [PgKeyValueDB](https://github.com/bjornharrtell/PgKeyValueDB) — Simple document database abstraction backed by PostgreSQL.
+- [PgEFCoreCopy](https://github.com/bjornharrtell/PgEFCoreCopy) — EF Core extension that uses PostgreSQL `COPY` for bulk operations.
 - [Utf8JsonStreamReader](https://github.com/bjornharrtell/Utf8JsonStreamReader) — Streaming UTF-8 JSON reader.
 - [StreamingZipReader](https://github.com/bjornharrtell/StreamingZipReader) — Read ZIP archives as a stream.
 
 ### Contributed
 
-- [JTS](https://github.com/locationtech/jts)
-- [GeoTools](https://github.com/geotools/geotools)
-- [GeoServer](https://github.com/geoserver/geoserver)
-- [OpenLayers](https://github.com/openlayers/openlayers)
+- [JTS](https://github.com/locationtech/jts) — Java library for creating and manipulating vector geometry.
+- [GeoTools](https://github.com/geotools/geotools) — Java toolkit for geospatial data.
+- [GeoServer](https://github.com/geoserver/geoserver) — Server for sharing geospatial data.
+- [OpenLayers](https://github.com/openlayers/openlayers) — JavaScript library for displaying maps on the web.
 
 ### Maintainer
 
-- [NetTopologySuite](https://github.com/NetTopologySuite/NetTopologySuite)
+- [NetTopologySuite](https://github.com/NetTopologySuite/NetTopologySuite) — .NET GIS library for spatial data and operations.
