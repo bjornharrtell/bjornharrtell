@@ -33,6 +33,9 @@ I build software for working with geospatial data. I work at [Septima](https://s
 - [GeoTools](https://github.com/geotools/geotools) — Java toolkit for geospatial data.
 - [GeoServer](https://github.com/geoserver/geoserver) — Server for sharing geospatial data.
 - [OpenLayers](https://github.com/openlayers/openlayers) — JavaScript library for displaying maps on the web.
+- [PostGIS](https://github.com/postgis/postgis) — Spatial database extension for PostgreSQL; contributed vector tile, Geobuf, and FlatGeobuf output functions.
+- [GDAL](https://github.com/OSGeo/gdal) — Geospatial data translation library; authored the FlatGeobuf driver.
+- [FlatBuffers](https://github.com/google/flatbuffers) — Cross-platform serialization library; added size-prefix support to its JavaScript and TypeScript APIs.
 
 ### Maintainer
 
