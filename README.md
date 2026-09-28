@@ -24,3 +24,14 @@ I build software for working with geospatial data. I work at [Septima](https://s
 - [PgEFCoreCopy](https://github.com/bjornharrtell/PgEFCoreCopy)
 - [Utf8JsonStreamReader](https://github.com/bjornharrtell/Utf8JsonStreamReader) — Streaming UTF-8 JSON reader.
 - [StreamingZipReader](https://github.com/bjornharrtell/StreamingZipReader) — Read ZIP archives as a stream.
+
+### Contributed
+
+- [JTS](https://github.com/locationtech/jts)
+- [GeoTools](https://github.com/geotools/geotools)
+- [GeoServer](https://github.com/geoserver/geoserver)
+- [OpenLayers](https://github.com/openlayers/openlayers)
+
+### Maintainer
+
+- [NetTopologySuite](https://github.com/NetTopologySuite/NetTopologySuite)
